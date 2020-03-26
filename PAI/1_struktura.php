@@ -7,7 +7,7 @@
 </head>
 <body>
     <?php
-    echo "text";
+    echo "soalr ma ma³êgo pindola";
     ?>
 </body>
 </html>
