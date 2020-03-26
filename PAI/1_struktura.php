@@ -1,6 +1,6 @@
 <!doctype html>
-<html lang="en">
 
+<html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -63,7 +63,7 @@
         
         </div>
         <div>
-        <h2 style="font-size:0.8vw">"Mam ma³êgo pindola "~~ Piotr Solarski</h2>
+        <h2 style="font-size:0.8vw">Piotr Solarski</h2>
         </div>
     
 </body>
